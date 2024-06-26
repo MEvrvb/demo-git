@@ -1,0 +1,7 @@
+D:\Cao dang FPT\C#\Lab5 C#\lab5 cau 3\lab5 cau 3\bin\Debug\lab5 cau 3.exe.config
+D:\Cao dang FPT\C#\Lab5 C#\lab5 cau 3\lab5 cau 3\bin\Debug\lab5 cau 3.exe
+D:\Cao dang FPT\C#\Lab5 C#\lab5 cau 3\lab5 cau 3\bin\Debug\lab5 cau 3.pdb
+D:\Cao dang FPT\C#\Lab5 C#\lab5 cau 3\lab5 cau 3\obj\Debug\lab5 cau 3.csproj.AssemblyReference.cache
+D:\Cao dang FPT\C#\Lab5 C#\lab5 cau 3\lab5 cau 3\obj\Debug\lab5 cau 3.csproj.CoreCompileInputs.cache
+D:\Cao dang FPT\C#\Lab5 C#\lab5 cau 3\lab5 cau 3\obj\Debug\lab5 cau 3.exe
+D:\Cao dang FPT\C#\Lab5 C#\lab5 cau 3\lab5 cau 3\obj\Debug\lab5 cau 3.pdb
